@@ -1,13 +1,13 @@
-package com.springframework.SpringFramwork5Test;
+package com.dapi.FirstWeb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringFramwork5TestApplication {
+public class FirstWebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringFramwork5TestApplication.class, args);
+		SpringApplication.run(FirstWebApplication.class, args);
 	}
 
 }

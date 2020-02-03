@@ -1,10 +1,10 @@
-package com.springframework.SpringFramwork5Test;
+package com.dapi.FirstWeb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringFramwork5TestApplicationTests {
+class FirstWebApplicationTests {
 
 	@Test
 	void contextLoads() {
