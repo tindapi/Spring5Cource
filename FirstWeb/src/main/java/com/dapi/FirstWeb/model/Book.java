@@ -1,6 +1,8 @@
 
 package com.dapi.FirstWeb.model;
 
+import org.springframework.context.annotation.Scope;
+
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
